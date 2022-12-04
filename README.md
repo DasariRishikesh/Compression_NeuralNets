@@ -5,5 +5,3 @@ The Deep Neural Networks have achieved great success in image recognition, speec
 Here we used three compression models.
 They are 
 1. Knowledge Distillation
-2. Pruning
-3. Quantisation
