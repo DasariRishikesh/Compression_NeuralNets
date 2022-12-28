@@ -11,3 +11,5 @@ As in the progress of the project we encountered that the model pruning doesn't 
 To get more relevent information here the most referred paper.
 
 ref: https://arxiv.org/abs/2106.05237
+
+#LICENSE - blob/main/LICENSE
