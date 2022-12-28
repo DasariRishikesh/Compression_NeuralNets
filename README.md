@@ -4,3 +4,10 @@ The Deep Neural Networks have achieved great success in image recognition, speec
 
 
 1. Knowledge Distillation
+
+
+As in the progress of the project we encountered that the model pruning doesn't fit the models with the higher architecture. Recent studies suggested to use the Knowledge distillation compression Technique to compress the large models even with the higher architecture. The knowledge distillation deals with the transfer of the knowledge from the teacher model(large NN) to the student model(smaller NN) so that the student can reach the level of the performance of the teacher model, also the knolwdge distillation aims to minimize the distillation loss i.e., cross entropy between the soft labels and hard lebels of the student model.
+
+To get more relevent information here the most referred paper.
+
+ref: https://arxiv.org/abs/2106.05237
